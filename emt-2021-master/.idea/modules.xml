@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/web/e-shop.iml" filepath="$PROJECT_DIR$/web/e-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/emt-2021-master-pagination.iml" filepath="$PROJECT_DIR$/.idea/emt-2021-master-pagination.iml" />
+    </modules>
+  </component>
+</project>
